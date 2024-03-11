@@ -1,7 +1,10 @@
 # Probability-Statistics
 
 https://web.stanford.edu/class/cs109/
+
 https://chrispiech.github.io/probabilityForComputerScientists/en/index.html
+
+
 
 lecture1 : introdutions 
 
